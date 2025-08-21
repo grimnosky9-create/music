@@ -1,3 +1,8 @@
 {
 "V_Groovy",
+"V_Angerfist",
+"V_Mercury",
+"V_Remix",
+"V_Roi",
+"V_Tiako",
 }
